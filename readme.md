@@ -47,5 +47,8 @@ pip install -r requirement.txt
 ### migrate
 > python manage.py migrate
 
+### python shell 執行 ORM
+> python manage.py shell
+
 ### reference
 > [Django rest framework tutorial](https://github.com/twtrubiks/django-rest-framework-tutorial/)
